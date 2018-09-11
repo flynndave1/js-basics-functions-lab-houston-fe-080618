@@ -26,7 +26,7 @@ function calculatesFarePrice(startingBlock, endingBlock) {
   if (d4 < 400) {
     fare = 'The short trip is free'}
     else if (d4 < 2000) {
-      fare = 2*(d4-400)/100 + "dollars";
+      fare = 2*(d4-400)/100 ;
     }
     else if( d4 < 2500) {
       fare = 25 ;
