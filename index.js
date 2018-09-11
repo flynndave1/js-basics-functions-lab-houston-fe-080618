@@ -15,7 +15,7 @@ function  distanceFromHqInFeet (endingBlock)  {
   
 }
 function  distanceTravelledInFeet(startingBlock , endingBlock) {
-  var d3 =  math.abs( startingBlock  - endingBlock ) *264;
+  var d3 =  Math.abs( startingBlock  - endingBlock ) *264;
   return d3 + "feet";
 }
 
