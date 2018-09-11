@@ -29,7 +29,7 @@ function calculatesFarePrice(startingBlock, endingBlock) {
       fare = 2*(d4-400)/100 + "dollars";
     }
     else if( d4 < 2500) {
-      fare = $30 ;
+      fare = $25 ;
     }
       else {
         fare = 'cannot travel that far';
