@@ -14,8 +14,8 @@ function  distanceFromHqInFeet (endingBlock)  {
   return  d2  ;
   
 }
-function  distanceTravelledInFeet() {
-  
+function  distanceTravelledInFeet(startingBlock , endingBlock) {
+  var d3 = 
   
 }
 
