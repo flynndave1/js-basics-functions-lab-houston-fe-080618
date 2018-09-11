@@ -32,7 +32,7 @@ function calculatesFarePrice(startingBlock, endingBlock) {
       fare = "Thirty Dollars" ;
     }
       else {
-        fare = 
+        fare = 'cannot travel that far';
       }
     
   }
