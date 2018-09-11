@@ -19,6 +19,6 @@ function  distanceTravelledInFeet(startingBlock , endingBlock) {
   return d3;
 }
 
-function calculatesFarePrice(start, destination) {
+function calculatesFarePrice(startingBlock, destination) {
   
 }
